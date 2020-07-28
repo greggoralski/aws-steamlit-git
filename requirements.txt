@@ -5,3 +5,5 @@ sklearn
 streamlit
 Pillow
 scipy
+nltk
+pipelines
